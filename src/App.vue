@@ -30,11 +30,12 @@
                 class="col-12 col-sm-12 col-md-12 col-lg-6 mt-5"
                 data-aos="fade-up"
               >
-                <h1 class="text-center text-lg-start mb-3" style="font-size: 45px;">
-                  A Brand New TUBE!
+                <h1 class="text-center text-lg-start mb-3" style="font-size: 80px;">
+                  Standard, <br />
+                  Popularity
                 </h1>
                 <p class="text-center text-lg-start fs-3">
-                  We have modeled it. to meet the needs of Gen Z!
+                  POY-SIAN is number <span class="fw-bold fs-2">1</span> in the inhaler market with <br /> <span class="text-decoration-underline fw-bold">70%</span> market share.
                 </p>
               </div>
 

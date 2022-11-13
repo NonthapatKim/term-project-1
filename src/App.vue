@@ -42,7 +42,7 @@
 
               <div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-5">
                 <div class="container" data-aos="fade-down">
-                  <video controls autoplay>
+                  <video autoplay muted loop>
                     <source :src="videop" type="video/mp4" />
                     Your browser does not support the video tag.
                   </video>

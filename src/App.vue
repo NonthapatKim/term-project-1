@@ -35,7 +35,8 @@
                   Popularity
                 </h1>
                 <p class="text-center text-lg-start fs-3">
-                  POY-SIAN is number <span class="fw-bold fs-2">1</span> in the inhaler market with <br /> <span class="text-decoration-underline fw-bold">70%</span> market share.
+                  POY-SIAN is *number <span class="fw-bold fs-1">1</span> in the inhaler market with <br /> <span class="text-decoration-underline fw-bold">70%</span> market share. <br /><br />
+                  <span class="text-white-50">*Data from Peppermint, 2019</span>
                 </p>
               </div>
 
@@ -70,7 +71,7 @@
                   Both inhaling and applying in the <span class="text-decoration-underline">SAME TUBE!</span>
                 </h1>
                 <p class="text-center text-lg-start fs-3">
-                  Yes!, This POY-SIAN standard has made people very interested until now.
+                  Yes, this is Thailand's first inhaler brand. with both inhalers and topical in the same tube
                 </p>
               </div>
             </div>
@@ -81,7 +82,7 @@
 
     <footer class="container-fluid p-3" style="background-color: #222324;">
       <div class="container">
-        <p class="text-white text-start">&copy; 2022 All Rights Reserved <br/> For COS001 Media Studies | Term Project Only</p>
+        <p class="text-white text-center">&copy; 2022 All Rights Reserved <br/> For COS001 Media Studies | Term Project Only</p>
       </div>
     </footer>
   </section>

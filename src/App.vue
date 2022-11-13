@@ -33,7 +33,7 @@
                 <h1 class="text-center text-lg-start mb-3" style="font-size: 45px;">
                   A Brand New TUBE!
                 </h1>
-                <p class="fs-3">
+                <p class="text-center text-lg-start fs-3">
                   We have modeled it. to meet the needs of Gen Z!
                 </p>
               </div>
@@ -65,10 +65,10 @@
                 class="col-12 col-sm-12 col-md-12 col-lg-6 mt-5"
                 data-aos="fade-up"
               >
-                <h1 class="text-center text-lg-start mb-3d" style="font-size: 45px;">
+                <h1 class="text-center text-lg-start mb-3" style="font-size: 45px;">
                   Both inhaling and applying in the <span class="text-decoration-underline">SAME TUBE!</span>
                 </h1>
-                <p class="fs-3">
+                <p class="text-center text-lg-start fs-3">
                   Yes!, This POY-SIAN standard has made people very interested until now.
                 </p>
               </div>

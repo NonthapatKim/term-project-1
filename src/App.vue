@@ -30,14 +30,11 @@
                 class="col-12 col-sm-12 col-md-12 col-lg-6 mt-5"
                 data-aos="fade-up"
               >
-                <h1 class="text-center text-lg-start mb-3">
-                  A Brand New Series!
+                <h1 class="text-center text-lg-start mb-3" style="font-size: 45px;">
+                  A Brand New TUBE!
                 </h1>
-                <p class="fs-5">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum
-                  modi voluptatum natus quod rerum, laborum vitae fugit
-                  temporibus, vel in optio nesciunt rem, quos eum alias tempore
-                  dignissimos aspernatur quia?
+                <p class="fs-3">
+                  We have modeled it. to meet the needs of Gen Z!
                 </p>
               </div>
 
@@ -68,14 +65,11 @@
                 class="col-12 col-sm-12 col-md-12 col-lg-6 mt-5"
                 data-aos="fade-up"
               >
-                <h1 class="text-center text-lg-start mb-3">
-                  A Brand New Series!
+                <h1 class="text-center text-lg-start mb-3d" style="font-size: 45px;">
+                  Both inhaling and applying in the <span class="text-decoration-underline">SAME TUBE!</span>
                 </h1>
-                <p class="fs-5">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum
-                  modi voluptatum natus quod rerum, laborum vitae fugit
-                  temporibus, vel in optio nesciunt rem, quos eum alias tempore
-                  dignissimos aspernatur quia?
+                <p class="fs-3">
+                  Yes!, This POY-SIAN standard has made people very interested until now.
                 </p>
               </div>
             </div>
@@ -85,7 +79,9 @@
     </div>
 
     <footer class="container-fluid p-3" style="background-color: #222324;">
-      <p class="text-white text-center">&copy; 2022 All Rights Reserved</p>
+      <div class="container">
+        <p class="text-white text-start">&copy; 2022 All Rights Reserved <br/> For COS001 Media Studies | Term Project Only</p>
+      </div>
     </footer>
   </section>
 </template>

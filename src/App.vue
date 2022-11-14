@@ -292,7 +292,7 @@
     <footer class="container-fluid p-3" style="background-color: #222324">
       <div class="container">
         <p class="text-white text-center">
-          &copy; 2022 All right reserved <br />
+          &copy; 2022 Paradise Group, All right reserved <br />
           For COS001 Media Studies | Term Project Only
         </p>
       </div>

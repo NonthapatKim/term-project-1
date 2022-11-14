@@ -175,7 +175,7 @@
                 </div>
               </div>
 
-              <a type="button" class="btn btn-primary fw-bold" href="https://youtu.be/xLD3giyGs5Q" target="_blank">หยิบใส่ตะกร้า</a>
+              <a type="button" class="btn btn-primary fw-bold">หยิบใส่ตะกร้า</a>
             </div>
           </div>
 
@@ -198,7 +198,7 @@
                 </div>
               </div>
 
-              <a type="button" class="btn btn-primary fw-bold" href="https://youtu.be/yfwmC7X44LM" target="_blank">หยิบใส่ตะกร้า</a>
+              <a type="button" class="btn btn-primary fw-bold">หยิบใส่ตะกร้า</a>
             </div>
           </div>
 
@@ -221,7 +221,7 @@
                 </div>
               </div>
 
-              <a type="button" class="btn btn-primary fw-bold" href="https://youtu.be/tBGHuRhU_yk" target="_blank">หยิบใส่ตะกร้า</a>
+              <a type="button" class="btn btn-primary fw-bold">หยิบใส่ตะกร้า</a>
             </div>
           </div>
         </div>

@@ -38,7 +38,7 @@
                 >
                   <h1
                     class="text-center text-lg-start mb-3"
-                    style="font-size: 80px; font-weight: bold; font-style: italic;"
+                    style="font-size: 70px; font-weight: bold; font-style: italic;"
                   >
                     Standard, <br />
                     Popularity
